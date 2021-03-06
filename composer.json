@@ -1,0 +1,8 @@
+{
+    "name": "techlines/test",
+    "description": "testing",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    }
+}
